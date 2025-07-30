@@ -8,6 +8,7 @@ Beyond generative AI, I have a strong foundation in machine learning and deep le
 
 ## 🌟 Featured Projects
 - Healthcare Multi-Agent Assistant: Graph-based, agentic workflow for automating healthcare tasks using LLMs and Azure CosmosDB. (Proprietary enterprise solution; code not publicly available)
+- [Steam Games Recommendation System](https://github.com/dlawc/steam-games-recommender): Developed and benchmarked multiple advanced algorithms (SBERT, LightGCN, Stacked Logistic Regression) for personalized game recommendations, featuring custom feature engineering, scalable nearest neighbor search, and robust evaluation metrics.
 - [Automated Pokémon Sales Tracker](https://github.com/davidlawcheng/pokemon-sales-tracker): End-to-end automation with LLMs, Gmail API, and Google Sheets for real-time card sales analytics.
 - [MLOps Feature Engineering with Airflow](https://github.com/davidlawcheng/airflow-feature-eng): Automated, production-ready feature engineering pipelines for scalable ML workflows.
 
