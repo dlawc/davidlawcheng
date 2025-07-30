@@ -14,5 +14,5 @@ Beyond generative AI, I have a strong foundation in machine learning and deep le
 ---
 
 - 📈 **Technical interests:** LLMs, agentic workflows, Deep Learning, data engineering, recommendation systems, MLOps, NLP, Data Analytics
-- 🤝 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/david-law-cheng/)
+- 🤝 **Let’s connect on:** [LinkedIn](https://www.linkedin.com/in/david-law-cheng/)
 
