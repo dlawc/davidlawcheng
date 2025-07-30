@@ -8,7 +8,7 @@ Beyond generative AI, I have a strong foundation in machine learning and deep le
 
 ## 🌟 Featured Projects
 
-- [LLM-Powered Dashboard](https://github.com/dlawc/LLM-Powered-Dashboard): AI-driven marketing analytics dashboard leveraging multiple LLMs (DeepSeek, Qwen, LLaMA3) for natural language report and chart generation, backed by Flask, MongoDB, and Prophet for time-series forecasting.
+- [LLM-Powered Marketing Analytics Dashboard](https://github.com/dlawc/LLM-Powered-Dashboard): AI-driven marketing analytics dashboard for Recce Labs, leveraging multiple LLMs (DeepSeek, Qwen, LLaMA3) for natural language report and chart generation, backed by Flask, MongoDB, and Prophet for time-series forecasting.
 
 - [Steam Games Recommendation System](https://github.com/dlawc/steam-games-recommender): Developed and benchmarked advanced algorithms (SBERT, LightGCN, Stacked Logistic Regression) for personalized game recommendations, featuring custom feature engineering, scalable nearest neighbor search, and robust evaluation metrics.
 
