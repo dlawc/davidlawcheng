@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Law Cheng
 
-I am an aspiring Data Scientist & Generative AI Enthusiast, I am currently graduating from NUS Business Analytics (Machine Learning Specialization)
+I’m an aspiring Data Scientist and Generative AI enthusiast, soon to graduate from NUS with a degree in Business Analytics (Machine Learning Specialization).
 
 I’m passionate about building scalable, real-world AI solutions—from LLM-powered agentic systems to robust MLOps pipelines. My recent projects span healthcare automation, NLP-driven analytics, and full-stack AI dashboards. I enjoy leveraging modern agentic frameworks like LangGraph, Open AI SDK, and LangChain to deliver impact and innovation.
 
