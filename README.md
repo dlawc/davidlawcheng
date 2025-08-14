@@ -2,7 +2,7 @@
 
 I’m an aspiring Data Scientist and Generative AI enthusiast, soon to graduate from NUS with a degree in Business Analytics (Machine Learning Specialization).
 
-I’m passionate about building scalable, real-world AI solutions—from LLM-powered agentic systems to robust MLOps pipelines. My recent projects span healthcare automation, NLP-driven analytics, and full-stack AI dashboards. I enjoy leveraging modern agentic frameworks like LangGraph, Open AI SDK, and LangChain to deliver impact and innovation.
+I’m passionate about building scalable, real-world AI solutions—from LLM-powered agentic systems to robust MLOps pipelines. My recent projects span healthcare Agentic Automation, Multi-Agent Orchestration, NLP-driven analytics, and full-stack AI dashboards. I enjoy leveraging modern agentic frameworks like LangGraph, Open AI SDK, and LangChain to deliver impact and innovation.
 
 Beyond generative AI, I have a strong foundation in machine learning and deep learning. My experience includes developing and optimizing supervised and unsupervised models, building neural networks (CNNs, Transformers), and designing recommendation systems. I enjoy combining classical ML techniques with state-of-the-art deep learning approaches to solve complex problems in data science and analytics.
 
