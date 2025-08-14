@@ -17,7 +17,7 @@ Beyond generative AI, I have a strong foundation in machine learning and deep le
 
 - [Pomopals Productivity App](https://github.com/dlawc/pomopals): Responsive Pomodoro timer web application built with Vue.js, featuring real-time achievement tracking, user-friendly UI, and agile SCRUM-based development.
 
-- **Healthcare Multi-Agent Assistant:** Graph-based, agentic workflow for automating healthcare tasks using LLMs and Azure CosmosDB. *(Proprietary enterprise solution; code not publicly available)*
+- **Healthcare Multi-Agent System Assistant:** Graph-based, agentic workflow using multiple agenets for automating healthcare tasks using LLMs and Azure CosmosDB. *(Proprietary enterprise solution; code not publicly available)*
 
 
 ---
